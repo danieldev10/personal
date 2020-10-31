@@ -1,0 +1,16 @@
+.home button {
+    background: none;
+    width: 125px;
+    height: 30px;
+    border: 1px solid #FFF;
+    color: #fff;
+    cursor: pointer;
+    transition: .3s linear;
+}
+.home button:hover {
+    color: #111;
+    background-color: #ccc;
+    border: 1px solid #ccc;
+    z-index: 1000;
+    font-weight: 100;
+}
